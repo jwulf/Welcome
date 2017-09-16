@@ -30,5 +30,8 @@ https://github.com/facebookincubator/create-react-app
 Monster Battler React:
 https://github.com/opensourcerytv/monsterbattle-react-redux-apollo
 
+Writing Redux from First Principles:
+https://github.com/opensourcerytv/redux-from-first-principles
+
 Monster Battler GraphQL Apollo Server:
 https://github.com/opensourcerytv/monsterbattle-apollo-server
